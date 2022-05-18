@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",BLACKGHOST 27 XA
+http://bgapp.live/TV&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",Apoya este proyecto
+http://bgapp.live/tvx.php?opcion=latina&c=
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",http://paypal.me/blackghost
+http://bgapp.live/tvx.php?opcion=latina&c=
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",VTV PLUS
+https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS AR
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS CL
+https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS EC
+https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS CO
+https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS UY
+https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS PE
+https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS 2
+https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS PLUS
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",DIRECTV SPORTS FIGHT
+https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Lista 27 solo OTT",PASIONES
+https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",UNIVERSAL CINEMA
+https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",UNIVERSAL COMEDY
+https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",UNIVERSAL PREMIERE
+https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",UNIVERSAL CRIME
+https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",UNIVERSAL REALITY
+https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
+#EXTINF:0 tvg-id="Volver.ar" group-title="Lista 27 solo OTT",VOLVER
+https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd?gith
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TV CIUDAD
+https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TNU
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",CANAL 4
+https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
+#EXTINF:0 tvg-id="mtv-hits" group-title="Lista 27 solo OTT",MTV HITS
+https://anedgeros.express.com.ar/live/c1eds/MTV_Hits/SA_DASH_cipix/MTV_Hits.mpd
+#EXTINF:0 tvg-id="MuchMusic.ar" group-title="Lista 27 solo OTT",MUCH MUSIC
+https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
+#EXTINF:0 tvg-id="HTV.mx" group-title="Lista 27 solo OTT",HTV
+https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",VORTERIX
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
+#EXTINF:0 tvg-id="Quiero.ar" group-title="Lista 27 solo OTT",QUIERO
+https://anedgeros.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
+#EXTINF:0 tvg-id="discov_sci" group-title="Lista 27 solo OTT",DISCOVERY SCIENCE
+https://anedgeros.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
+#EXTINF:0 tvg-id="FilmArts.ar" group-title="Lista 27 solo OTT",FILM & ARTS
+https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
+#EXTINF:0 tvg-id="E.uk" group-title="Lista 27 solo OTT",E!
+https://anedgeros.express.com.ar/live/c1eds/E_HD/SA_DASH_cipix/E_HD.mpd
+#EXTINF:0 tvg-id="food-network-rus" group-title="Lista 27 solo OTT",FOOD NETWORK
+https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 27 solo OTT",ISAT
+https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Lista 27 solo OTT",HBO SIGNATURE
+https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",NATGEO KIDS
+https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd
+#EXTINF:0 tvg-id="PAKA.ar" group-title="Lista 27 solo OTT",PAKA PAKA
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+#EXTINF:0 tvg-id="AmericaSports.ar" group-title="Lista 27 solo OTT",AMERICA SPORTS
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",PX SPORTS
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
+#EXTINF:0 tvg-id="NBA.blt" group-title="Lista 27 solo OTT",NBA TV
+https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
+#EXTINF:0 tvg-id="Golf.fr" group-title="Lista 27 solo OTT",GOLF CHANNEL
+https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
+#EXTINF:0 tvg-id="26TV.ar" group-title="Lista 27 solo OTT",26 TV
+http://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista 27 solo OTT",FOX SPORTS 3
+https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",FOX SPORTS 3 MX
+https://d2s7l7f5odbhu9.cloudfront.net/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+#EXTINF:0 tvg-id="DeporTV.ar" group-title="Lista 27 solo OTT",DEPORTV
+https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
+#EXTINF:0 tvg-id="America2.ar" group-title="Lista 27 solo OTT",AMERICA TV
+https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
+#EXTINF:0 tvg-id="TNHD.ar" group-title="Lista 27 solo OTT",TN
+https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
+#EXTINF:0 tvg-id="CronicaTV.ar" group-title="Lista 27 solo OTT",CRONICA TV
+https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TELEDOCE
+https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",CANAL 10
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",A3 SERIES
+https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Lista 27 solo OTT",DISCOVERY WORLD
+https://anedgeros.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Lista 27 solo OTT",DISCOVERY TURBO
+https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
+#EXTINF:0 tvg-id="boomerang" group-title="Lista 27 solo OTT",BOOMERANG
+https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
+#EXTINF:0 tvg-id="Paramount.uk" group-title="Lista 27 solo OTT",PARAMOUNT
+https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+#EXTINF:0 tvg-id="Max.br" group-title="Lista 27 solo OTT",HBO MUNDI
+http://cdn-ru.xaxa.live/live/eds/MAX/live_dash_cld/MAX.mpd
+#EXTINF:0 tvg-id="VTV.bg" group-title="Lista 27 solo OTT",VTV
+https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 27 solo OTT",HBO XTREME
+http://cdn-ru.xaxa.live/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd
+#EXTINF:0 tvg-id="Maxup.br" group-title="Lista 27 solo OTT",HBO POP
+http://cdn-ru.xaxa.live/live/eds/MAXUP/live_dash_cld/MAXUP.mpd
+#EXTINF:0 tvg-id="baby-tv" group-title="Lista 27 solo OTT",BABY TV
+https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Lista 27 solo OTT",FOX SPORTS
+https://anedgeros.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",FOX SPORTS MX
+https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 27 solo OTT",FOX SPORTS 2
+https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 27 solo OTT",FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:0 tvg-id="FX.uk" group-title="Lista 27 solo OTT",FX
+https://anedgeros.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",ESPN PREMIUM AR
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TNT SPORTS AR
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TNT SPORTS CL
+https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",EL CANAL DEL FUTBOL
+https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",GOL PERU (SOLO PERU)
+https://b41838-p3-hd0-afvpzwog.2.cdn.telefonica.com/_41838/_-_psi_-_/live/disk1/GolPeruHD/GOLPERU_SP_DASH_HD/GolPeruHD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",AFIZZIONADOS
+https://channel-afizzionados-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TUDN
+https://channel-tdn-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista 27 solo OTT",DE PELICULA
+https://channel-depelicula-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="Golden.mx" group-title="Lista 27 solo OTT",GOLDEN
+https://channel-golden-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Lista 27 solo OTT",GOLDEN EDGE
+https://channel-goldenedge-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",GOLDEN PLUS
+https://channel-goldenplus-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="GoldenChoiceMulti.mx" group-title="Lista 27 solo OTT",GOLDEN MULTIPLEX
+https://channel-goldenmpx-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="TDN.mx" group-title="Lista 27 solo OTT",TDN
+https://channel-tdn-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista 27 solo OTT",TLNOVELAS
+https://channel-tlnovelas-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="Lista 27 solo OTT",EUROPA EUROPA
+https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Lista 27 solo OTT",WARNER
+https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 27 solo OTT",UNIVERSAL
+https://anedgeros.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista 27 solo OTT",TOONCAST
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 27 solo OTT",TNT SERIES
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lista 27 solo OTT",TLC
+https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 27 solo OTT",TELEMUNDO
+https://anedgeros.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+#EXTINF:0 tvg-id="TCM.uk" group-title="Lista 27 solo OTT",TCM
+https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Lista 27 solo OTT",STUDIO UNIVERSAL
+https://anedgeros.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+#EXTINF:0 tvg-id="id-extra" group-title="Lista 27 solo OTT",INVESTIGATION DISCOVERY
+https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Lista 27 solo OTT",HBO PLUS
+https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Lista 27 solo OTT",HBO
+https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista 27 solo OTT",HBO FAMILY
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Lista 27 solo OTT",HBO 2
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista 27 solo OTT",STAR LIFE
+https://dtvott-cbc.akamaized.net/dash_live_1205/manifest.mpd
+#EXTINF:0 tvg-id="star.gr" group-title="Lista 27 solo OTT",STAR
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista 27 solo OTT",GOURMET
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista 27 solo OTT",DISCOVERY KIDS
+https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",HOME & HEALT
+https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Lista 27 solo OTT",DISNEY XD
+https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Lista 27 solo OTT",DISNEY JR
+https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
+#EXTINF:0 tvg-id="disney" group-title="Lista 27 solo OTT",DISNEY CHANNEL
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 27 solo OTT",CINECANAL
+https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Lista 27 solo OTT",COMEDY CENTRAL
+https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd
+#EXTINF:0 tvg-id="animal_rus" group-title="Lista 27 solo OTT",ANIMAL PLANET
+https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
+#EXTINF:0 tvg-id="discov_rus" group-title="Lista 27 solo OTT",DISCOVERY CHANNEL
+https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
+#EXTINF:0 tvg-id="ESPN3.br" group-title="Lista 27 solo OTT",ESPN PLUS
+https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista 27 solo OTT",ESPN 2
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",ESPN 2 MX
+https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+#EXTINF:0 tvg-id="history-rus" group-title="Lista 27 solo OTT",HISTORY
+https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista 27 solo OTT",TRUTV
+https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista 27 solo OTT",CINEMAX
+https://anedgeros.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+#EXTINF:0 tvg-id="history2-rus" group-title="Lista 27 solo OTT",H2
+https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
+#EXTINF:0 tvg-id="cartoon" group-title="Lista 27 solo OTT",CARTOON NETWORK
+https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
+#EXTINF:0 tvg-id="natgeo" group-title="Lista 27 solo OTT",NATGEO
+https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
+#EXTINF:0 tvg-id="Space.br" group-title="Lista 27 solo OTT",SPACE
+https://anedgeros.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Lista 27 solo OTT",ESPN
+https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",ESPN MX
+https://d2s7l7f5odbhu9.cloudfront.net/out/u/dash/ESPN-HD/default.mpd
+#EXTINF:0 tvg-id="mtv-rus" group-title="Lista 27 solo OTT",MTV
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
+#EXTINF:0 tvg-id="mgm-int" group-title="Lista 27 solo OTT",AMC
+https://anedgeros.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Lista 27 solo OTT",NICKELODEON
+https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Lista 27 solo OTT",ESPN 3
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",ESPN 3 MX
+https://d2s7l7f5odbhu9.cloudfront.net/out/u/dash/ESPN-3-HD/default.mpd
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Lista 27 solo OTT",ESPN 4
+https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+#EXTINF:0 tvg-id="AyE.mx" group-title="Lista 27 solo OTT",A&E
+https://anedgeros.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+#EXTINF:0 tvg-id="AXN.bg" group-title="Lista 27 solo OTT",AXN
+https://anedgeros.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
+#EXTINF:0 tvg-id="set" group-title="Lista 27 solo OTT",SONY
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+#EXTINF:0 tvg-id="tnt" group-title="Lista 27 solo OTT",TNT
+https://anedgeros.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
+#EXTINF:0 tvg-id="cnn" group-title="Lista 27 solo OTT",CNN
+https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
+#EXTINF:0 tvg-id="Telefe.ar" group-title="Lista 27 solo OTT",TELEFE
+https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+#EXTINF:0 tvg-id="Canal13.ar" group-title="Lista 27 solo OTT",CANAL 13
+https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
+#EXTINF:0 tvg-id="CANAL9.dk" group-title="Lista 27 solo OTT",CANAL 9
+https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Lista 27 solo OTT",TYC SPORTS
+https://anedgeros.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
+#EXTINF:0 tvg-id="C5N.ar" group-title="Lista 27 solo OTT",C5N
+https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Lista 27 solo OTT",SYFY
+https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
+#EXTINF:0 tvg-id="24dok" group-title="Lista 27 solo OTT",TBS
+https://anedgeros.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Lista 27 solo OTT",LIFETIME
+https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
+#EXTINF:0 tvg-id="TvPublica.ar" group-title="Lista 27 solo OTT",TV PUBLICA
+https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
+#EXTINF:0 tvg-id="playboy" group-title="Lista 27 solo OTT",PLAYBOY
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+#EXTINF:0 tvg-id="Sextreme.ar" group-title="Lista 27 solo OTT",SEXTREME
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="Lista 27 solo OTT",VENUS
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+#EXTINF:0 tvg-id="A24.ar" group-title="Lista 27 solo OTT",AMERICA 24
+https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
+#EXTINF:0 tvg-id="Latina.pe" group-title="Lista 27 solo OTT",LATINA
+http://45.189.108.58:10000/play/a006/index.m3u8
+#EXTINF:0 tvg-id="TVPeru.pe" group-title="Lista 27 solo OTT",TV PERU
+http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0 tvg-id="ATV.pe" group-title="Lista 27 solo OTT",ATV PERU
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Lista 27 solo OTT",PANAMERICANA
+http://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",AZTECA 1
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista 27 solo OTT",AZTECA 7
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Lista 27 solo OTT",CANAL 5
+https://channel-canal5-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",IMAGEN TV
+https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-TV-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",LAS ESTRELLAAS
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Lista 27 solo OTT",FORO TV
+https://channel-forotv-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",BITME
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista 27 solo OTT",DISTRITO COMEDIA
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 27 solo OTT",UNICABLE
+https://channel-unicable-cdn.blim.com/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",NUEVE
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",ADN40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",RCN
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Lista 27 solo OTT",CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",CANAL 1
+http://138.117.84.82/co_canal_uno_sd/index.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="Lista 27 solo OTT",NTN24
+http://138.117.84.82/co_ntn24_dx/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",SENAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTSSAT.rs" group-title="Lista 27 solo OTT",RTS
+https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",ECUAVISA
+https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",OROMAR
+https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TC TV
+https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Lista 27 solo OTT",ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",SNT
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",TELEFUTURO
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",PARAGUAY TV
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",LATELE
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",PARAVISION
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Lista 27 solo OTT",TV CAMARA
+https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",GEN
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",5 DIAS
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",UNICANAL
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",SURTV
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 27 solo OTT",RPC
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
